@@ -11,7 +11,7 @@ function NavigationBar() {
     return (
         <Navbar bg="light" expand="lg">
             <Container fluid>
-                <Navbar.Brand href="#">ImageUploader</Navbar.Brand>
+                <Navbar.Brand href="#">ImageGallary</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">
                     <Nav
